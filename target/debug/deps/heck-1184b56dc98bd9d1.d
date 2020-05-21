@@ -1,0 +1,13 @@
+/home/davis/github/uiuc/davisk2/Rust/section-four/plato/target/debug/deps/heck-1184b56dc98bd9d1.rmeta: /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/home/davis/github/uiuc/davisk2/Rust/section-four/plato/target/debug/deps/libheck-1184b56dc98bd9d1.rlib: /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/home/davis/github/uiuc/davisk2/Rust/section-four/plato/target/debug/deps/heck-1184b56dc98bd9d1.d: /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs:
+/home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs:
+/home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs:
+/home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs:
+/home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs:
+/home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs:
+/home/davis/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs:

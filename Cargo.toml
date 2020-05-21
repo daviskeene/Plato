@@ -1,0 +1,14 @@
+[package]
+name = "plato"
+version = "0.1.0"
+authors = ["Joshuad2uiuc <joshuad2@illinois.edu>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.2.10"
+pathdiff = "0.1.0"
+chrono = "0.4"
+libc = "0.2"
+users = "0.9"
+groups = "0.1.1"
+pretty-bytes = "0.2"
