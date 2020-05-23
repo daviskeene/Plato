@@ -3,6 +3,15 @@
 ## CS 196 Project
 For CS196 (Freshman Honors), we were tasked with creating Plato, a rust-built program that would behave in the same way as LS. This was a way for us to get comfortable writing CLI's with Rust, and to get involved with more of the low level things that Rust has to offer.
 
+## Getting Started
+
+Once you've cloned or forked the repo and downloaded it to your local machine, `cd` into the root directory and run:
+
+```
+cargo build
+```
+This will build the `target/` folder and allow you to use the plato script.
+
 Example usage below.
 
 ## Usage
